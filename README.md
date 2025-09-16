@@ -121,8 +121,4 @@ F5服务器: https://f5server
 
 ⭐ 如果这个项目对您有帮助，请给个星标支持！
 
-☕️ 如果您觉得项目对你有帮助，可以请作者喝杯咖啡
-
-![img.jpg](https://github.com/worlik/F5_BIG_IP_URL/blob/main/img.jpg?raw=true)
-
 
